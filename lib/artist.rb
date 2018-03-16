@@ -28,4 +28,6 @@ class Artist
 
 end
 
+new_artist = Artist.new('Jay-z')
+new_artist.songs << 'encore'
 Artist.song_count
