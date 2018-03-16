@@ -22,13 +22,7 @@ class Artist
   end
 
   def song_count
-    puts self.songs
     self.songs.count
   end
 
 end
-
-new_artist = Artist.new('Jay-z')
-new_artist.songs << 'encore'
-new_artist.songs << 'asdf'
-new_artist.song_count
