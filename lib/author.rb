@@ -7,6 +7,6 @@ class Author
     @posts = []
   end
 
-  
+
 
 end
