@@ -30,4 +30,4 @@ end
 
 new_artist = Artist.new('Jay-z')
 new_artist.songs << 'encore'
-puts new_artist.song_count
+new_artist.song_count
