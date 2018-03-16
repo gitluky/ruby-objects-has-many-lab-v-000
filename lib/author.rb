@@ -18,5 +18,9 @@ class Author
     add_post(new_title)
   end
 
+  def post_count
+    @@post_count
+  end
+
 
 end
