@@ -30,4 +30,5 @@ end
 
 new_artist = Artist.new('Jay-z')
 new_artist.songs << 'encore'
+new_artist.songs << 'asdf'
 new_artist.song_count
