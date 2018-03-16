@@ -11,3 +11,5 @@ class Song
   end
 
 end
+
+new_song = Song.new('new song')
